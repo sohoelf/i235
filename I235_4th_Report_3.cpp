@@ -40,7 +40,6 @@ public:
 		case LEFT:return i - 1; break;
 		case RIGHT:return i + 1; break;
 		}
-
 	}
 };
 int main()
